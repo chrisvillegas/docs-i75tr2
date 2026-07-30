@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ak8rp2.trans88.online/sitemap.xml
